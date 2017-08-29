@@ -93,7 +93,6 @@ class AdvancedStringEncoder:
 
 
 
-
 # LI-Encoding
 # Length-Indicator based encoding
 def li_encode_multiple(strs):
