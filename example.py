@@ -1,4 +1,4 @@
-from utilities.advanced_string_encoder import AdvancedStringEncoder
+from utilities.encoder.advanced_string_encoder import AdvancedStringEncoder
 
 encoder = AdvancedStringEncoder()
 encoder.add_entry("tag1", "Whatup")
